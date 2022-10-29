@@ -10,9 +10,7 @@
         </v-flex>-->
 
         <v-flex mb-5 xs12>
-            <h2 class="headline font-weight-bold mb-3">Generate your algo trading source code in ONE minute!!</h2>
-            <a href="https://www.fintechee.com" target="_blank">Fintechee Trading Platform</a>
-
+      
             <v-layout justify-center>
                 <v-card class="ma-5" min-width="400">
                     <v-form class="pa-5" ref="form">
